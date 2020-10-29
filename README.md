@@ -1,4 +1,4 @@
-# vue sli
+# Vue CLI
 
 ## Project setup
 ```
