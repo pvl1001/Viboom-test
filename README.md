@@ -1,4 +1,4 @@
-# test-vue
+# vue sli
 
 ## Project setup
 ```
